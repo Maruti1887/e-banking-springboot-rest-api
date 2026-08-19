@@ -559,8 +559,6 @@ Java | Spring Boot | React | REST APIs | MySQL
 ### Connect With Me
 
 * GitHub: `https://github.com/Maruti1887`
-* LinkedIn: `YOUR_LINKEDIN_URL`
-
 ---
 
 ## ⭐ Project Highlights
